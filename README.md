@@ -9,4 +9,4 @@ npm run dev
 
 
 
-基于vue eleement-ui draggable 实现表格拖拽及对应表格映射 的小demo
+基于vue element-ui draggable Sortable  实现表格拖拽及对应表格映射 的小demo
